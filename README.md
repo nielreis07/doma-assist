@@ -109,4 +109,4 @@ Este projeto foi desenvolvido para aplicar conceitos de desenvolvimento para dis
 
 ---
 
-Desenvol
+Desenvolvido por Daniel Victor Reis para a disciplina DGT2816 — Estácio.
